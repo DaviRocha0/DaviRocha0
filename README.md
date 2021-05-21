@@ -6,7 +6,6 @@
 - Unity3D
 - Segurança da Informação
 
-### Minhas contribuições
 <center>
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
