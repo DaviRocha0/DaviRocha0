@@ -1,16 +1,17 @@
-### Hi there 👋
+### Skills:
+- C/C++, Java, C#
+- DirectX
+- OpenGL
+- Modelagem 3D
+- Unity3D
+- Segurança da Informação
 
-<!--
-**DaviRocha0/DaviRocha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas contribuições
+<center>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRocha0&hide=html&layout=compact&theme=dracula&langs_count=10" /></td>
+        <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=DaviRocha0&theme=dracula&show_icons=true&count_private=true" /></td>
+    </tr>  
+  </table>
+</center>
